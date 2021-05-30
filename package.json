@@ -1,0 +1,19 @@
+{
+  "name": "make-notes-tonihalmetoja",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "crypto-js": "^4.0.0",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1",
+    "mysql": "^2.18.1",
+    "random-key": "^0.3.2",
+    "sqlstring": "^2.3.2",
+    "tinymce": "^5.7.1"
+  }
+}
