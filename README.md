@@ -1,6 +1,4 @@
 # make-notes-ToniHalmetoja
-make-notes-ToniHalmetoja created by GitHub Classroom
-
 Welcome to Gluegle Docs!
 
 This is a simple project for school that allows you to create, edit, and save documents in your browser, using a MySQL database.
